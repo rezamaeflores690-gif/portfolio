@@ -5,7 +5,7 @@ and JavaScript. Deployed on GitHub Pages.
 
 ## Live Site
 
-[https://YOUR-USERNAME.github.io/portfolio](https://YOUR-USERNAME.github.io/portfolio)
+https://rezamaeflores690-gif.github.io/portfolio/
 
 ## Built With
 
